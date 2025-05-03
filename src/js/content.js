@@ -355,7 +355,9 @@ const allData = [
   [`SSH and GPG keys`, `SSH和GPG密钥`],
   [`Cancel changes`, `取消更改`],
   [`Commit changes...`, `提交更改...`],
-  [``, ``],
+  [`star`,`星`]，
+  [`watch`,`查看`],
+  [`pages`, `页面`],
   [``, ``],
   [``, ``],
   [``, ``],
